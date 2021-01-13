@@ -1,0 +1,4 @@
+#Wed Dec 09 17:33:52 EET 2020
+base.0=D\:\\Work\\Upwork\\1127(HealthCare)\\drowzee-hybrid\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

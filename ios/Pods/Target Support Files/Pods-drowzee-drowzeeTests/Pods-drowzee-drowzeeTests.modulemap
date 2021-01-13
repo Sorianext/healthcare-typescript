@@ -1,0 +1,6 @@
+module Pods_drowzee_drowzeeTests {
+  umbrella header "Pods-drowzee-drowzeeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
